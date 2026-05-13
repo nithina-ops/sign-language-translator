@@ -1,3 +1,6 @@
+<img width="832" height="621" alt="demo_1" src="https://github.com/user-attachments/assets/7a46120d-183a-4b2f-89c2-6442b06d4715" />
+<img width="829" height="621" alt="demo_2" src="https://github.com/user-attachments/assets/0f58824c-1b47-459a-82b8-7b492bd9e8ae" />
+
 # Real-Time Sign Language Translator
 
 A two-hand gesture recognition system using MediaPipe and Machine Learning.
