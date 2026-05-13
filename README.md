@@ -1,4 +1,5 @@
-![Demo](demo.gif)
+
+
 
 # Real-Time Sign Language Translator
 
