@@ -1,3 +1,4 @@
+![Demo](demo.gif)
 # Real-Time Sign Language Translator
 
 A two-hand gesture recognition system using MediaPipe and Machine Learning.
